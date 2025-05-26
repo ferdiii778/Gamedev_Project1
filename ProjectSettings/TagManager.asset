@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundUtama
+    uniqueID: 1904383831
+    locked: 0
+  - name: Background Gunung
+    uniqueID: 1078280607
+    locked: 0
+  - name: Hutan
+    uniqueID: 1242675829
+    locked: 0
+  - name: Player
+    uniqueID: 3736974519
+    locked: 0
+  - name: Buku
+    uniqueID: 4154231825
+    locked: 0
+  - name: Awan
+    uniqueID: 3610207927
+    locked: 0
+  - name: Semak & Pohon
+    uniqueID: 3087797795
+    locked: 0
